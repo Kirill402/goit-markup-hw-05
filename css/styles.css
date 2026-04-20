@@ -445,10 +445,6 @@ body {
   align-items: baseline;
 }
 
-.footer-left {
-  margin-right: 120px;
-}
-
 .footer-logo {
   display: inline-block;
   margin-bottom: 16px;
@@ -474,7 +470,7 @@ body {
 }
 
 .footer-social {
-  margin-right: 80px;
+  margin-left: 120px;
 }
 
 .footer-social-title,
@@ -520,6 +516,10 @@ body {
 .footer-subscribe-form {
   display: flex;
   gap: 24px;
+}
+
+.footer-subscribe {
+  margin-left: auto;
 }
 
 .footer-subscribe-input {
