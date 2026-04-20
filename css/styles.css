@@ -467,6 +467,7 @@ body {
 }
 
 .footer-text {
+  max-width: 264px;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -474,7 +475,7 @@ body {
 }
 
 .footer-social {
-  margin-right: auto;
+  margin-right: 80px;
 }
 
 .footer-social-title,
